@@ -1,0 +1,14 @@
+{
+  "name": "fullstack-app-nr",
+  "version": "1.0.0",
+  "description": "Aplicação criando servidor node.js usando express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
